@@ -1,0 +1,1 @@
+# colddamage-weightfactor
